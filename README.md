@@ -32,15 +32,8 @@ Prepare your dataset:
         8. Deploy App
 
 
-## Demo
 
-[Click HERE To View App](https://netflixrecommenderapp.herokuapp.com/)
-
-
-
-
-
-![logo](https://github.com/MrBriit/Netflix-Recommender-System-and-Deployment/blob/main/net%20screenshot.png?raw=true)
+![logo](https://github.com/AshrafAaref21/Netflix-Recommender-System/blob/main/screenshot.png?raw=true)
 
 
 ## 🚀 About Me
