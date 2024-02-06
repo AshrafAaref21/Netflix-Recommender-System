@@ -11,15 +11,9 @@ We use *web scraping* to get the reviews given by the user in the IMDB site usin
 To run a Flask deployment tests, run the following command
 
 ```bash
-  python main.py
+  python app.py
 ```
 
-
-## Running Heroku Tests
-
-To run a Heroku deployment tests, click on the following link:
-
-[Netflix Recommender System App](https://netflixrecommenderapp.herokuapp.com/)
 
 
 ## Deployment
