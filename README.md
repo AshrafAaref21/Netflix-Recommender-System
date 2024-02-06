@@ -40,36 +40,34 @@ Prepare your dataset:
 I'm a Full Stack Data Scientist
 
 
-# Hi, I'm Dr Briit! 👋
+# Hi, I'm Eng Aaref! 👋
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/mrbriit/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrbriit/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrbriit)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([www.linkedin.com/in/ashraf-aaref-357b54206](https://www.fiverr.com/ashrafaaref?public_mode=true/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashraf-aaref-357b54206)
 
 
 ## 🛠 Skills
 - Python  
-
 - Statistics 
-
 - SQL 
 - Machine Learning 
 - Deep Learning
 - Artificial Intelligence
 - Data Science
+- Flask Backend & HTML CSS Bootstrap Javascript FrontEnd
 - Product Management
 
 
 ## Summary Of My Journey 
-👩‍💻 Started as a Mathematician
+👩‍💻 Started as a Mathematician and Engineer
 
-🧠 Bsc Mathematics graduate. First class with distinction
+🧠 Bsc Industrial Engineering graduate.
 
-👯‍♀️ Masters in Data Science: graduated first class with distinction
+👯‍♀️ Micro-Masters in Supply Chain Management: From Mit
 
-🤔 PhD with research forcus in Artificial Intelligence
+🤔 3 Udacity NanoDegrees in Data Science and more than 3 years experience in Data Science and AI
 
 💬 more details loading...
 
@@ -79,8 +77,6 @@ I'm a Full Stack Data Scientist
 
 ⚡️ ...
 
-
-![Logo](https://github-readme-stats.vercel.app/api?username=mrbriit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
 ## Tech Stack
@@ -101,12 +97,4 @@ I'm a Full Stack Data Scientist
 ⚡️ Looking forward to offer more than I take and leave the place better than i found
 
 
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
