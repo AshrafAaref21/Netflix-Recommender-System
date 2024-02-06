@@ -16,7 +16,6 @@ To run a Flask deployment tests, run the following command
 
 
 
-## Deployment
 
 ### Steps To Deploy The App:
 
