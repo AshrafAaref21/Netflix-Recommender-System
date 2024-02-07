@@ -43,8 +43,8 @@ I'm a Full Stack Data Scientist
 
 
 ## 🔗 Links
-![(https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.fiverr.com/ashrafaaref?public_mode=true/)
-![(https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashraf-aaref-357b54206)
+![Logo][(https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.fiverr.com/ashrafaaref?public_mode=true/)
+![Logo][(https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashraf-aaref-357b54206)
 
 
 ## 🛠 Skills
