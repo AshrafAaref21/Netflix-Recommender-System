@@ -31,7 +31,11 @@ Prepare your dataset:
         8. Deploy App
 
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://github.com/AshrafAaref21/Netflix-Recommender-System/blob/main/video.mp4?raw=true])
+
+
+
+
+https://github.com/AshrafAaref21/Netflix-Recommender-System/assets/82468597/c7d9f7ab-b047-4d1f-abd4-17858011272f
 
 
 ## 🚀 About Me
