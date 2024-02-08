@@ -32,7 +32,7 @@ Prepare your dataset:
 
 
 
-![logo](https://github.com/AshrafAaref21/Netflix-Recommender-System/blob/main/screenshot.png?raw=true)
+![logo](https://github.com/AshrafAaref21/Netflix-Recommender-System/blob/main/video.mp4?raw=true)
 
 
 ## 🚀 About Me
